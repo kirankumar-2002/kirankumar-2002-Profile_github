@@ -1,12 +1,12 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)](https://kirankumar.io)
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html?embed=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar-2002&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumar-2002" /> </p>
 
 
-- 🔭 I’m currently working on t **Web Development, Python**
+- 🔭 I’m currently working on **Web Development, Python**
 
 - 📫 How to reach me **kirankumarpatro2002@gamil.com**
 
