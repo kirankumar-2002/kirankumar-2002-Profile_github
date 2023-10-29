@@ -7,15 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiraninnocent_" target="blank"><img src="https://img.shields.io/twitter/follow/kiraninnocent_?logo=twitter&style=for-the-badge" alt="kiraninnocent_" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
-
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 🤝 I’m looking for help with **Java Script**
-
-- 💬 Ask me about **Web Development, Python**
+- 🔭 I’m currently working on t **Web Development, Python**
 
 - 📫 How to reach me **kirankumarpatro2002@gamil.com**
 
