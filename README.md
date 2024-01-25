@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)](https://kirankumar.io)
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">A passionate Programmer from Vizag, India</h3>
 <img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar-2002&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumar-2002" /> </p>
